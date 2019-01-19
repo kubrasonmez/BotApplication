@@ -23,6 +23,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <TargetFrameworkProfile />
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -107,220 +108,6 @@
   <ItemGroup>
     <Content Include="default.htm" />
     <Content Include="Global.asax" />
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.BKMGetTokenResponse.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.CalculateOfferAlternativesResponse.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.CalculateTrafficOfferAlternativesResponse.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.GetOnlineOfferListResponse.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.IS_ProductOffer.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessage.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfBentasPolicyPropertyKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfIS_AddressHistoryKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfIS_CommunicationKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfIS_ProductOfferKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfKeyValueOfstringstringuHEDJ7Dj.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfParTaskSubCategoryvOSCZq0G.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPcAreaCodeISE_P3Nmm.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCCampaingCustomerInfoISE_P3Nmm.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCCampaingDefinitionISE_P3Nmm.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCCustomerAddressesRelatedWithOffertY9PdCPl.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCCustomerCommunicationInfoISE_P3Nmm.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCCustomerProducttY9PdCPl.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCGeneralOfferResponseaD1_SLJRT.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCInsuranceFirmaD1_SLJRT.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCPolicyCollectionResultDetailISE_P3Nmm.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCUsageTypeaD1_SLJRT.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCVehicleBrand4mA3Gz_S2.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCVehicleModel4mA3Gz_S2.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfPCVehicleSubModel4mA3Gz_S2.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfview_ActivePoliciesKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfview_AddressKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfview_CustomerTaskvOSCZq0G.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfview_GetCustomersNotificationKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfview_ParParameterKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfview_ParSubParameterKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfArrayOfview_VDFCustomerAddressListKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfbase64Binary.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfBentasPolicyKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfboolean.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfCreateCustomerAndProductForNewSaleResponseofDGA4Jz.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfDoResponsegJjm7MZu.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfGuestCustomerInfo4PmyTwbE.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfint.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfInt32.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfIS_CustomerKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfIS_CustomerProductKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfIS_CustomerVehicleKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfIS_ProductOfferKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfMobilePolicySummarygJjm7MZu.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfMobileRenewalParametersofDGA4Jz.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfMobilServiceLogKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfParTaskSubCategoryvOSCZq0G.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCAddressWHr5_S_P2w.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCBentasPolicyVehicleInfoZ094EfyP.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCBentasPolPropDetail30fOR8Li.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCCreatePolicyResponsegJjm7MZu.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCCustomerCommunicationInfoISE_P3Nmm.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCInsuranceCusCallResultaD1_SLJRT.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCMessageActionLogn7NY9Yzd.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCPermittedMarketingResultDetailms0ZHSUN.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCUserInformation.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCVdfMobileWSUser.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPCVehicleSubModel4mA3Gz_S2.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfPreviousPolicyResponseO2F5P8sB.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfstring.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfString1.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfTaskFilevOSCZq0G.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfTaskvOSCZq0G.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfview_AddressKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfview_CustomerKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfview_MatchedBentasPolicesWithVehicleInfoKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.ResponseMessageOfview_ParSubParameterKqtyDP_PV.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <Content Include="Service References\InsuranceOnlineWS\InsuranceOnlineWS.SelfServiceOfferReturnCodes.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Content>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService.disco" />
-    <None Include="Service References\InsuranceOnlineWS\configuration91.svcinfo" />
-    <None Include="Service References\InsuranceOnlineWS\configuration.svcinfo" />
-    <None Include="Service References\InsuranceOnlineWS\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -338,89 +125,11 @@
     <Compile Include="Model\ResponseMessage.cs" />
     <Compile Include="Model\Translater.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Service References\InsuranceOnlineWS\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService.wsdl" />
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService10.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService11.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService12.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService13.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService14.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService15.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService16.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService17.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService18.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService19.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService2.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService20.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService21.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService22.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService23.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService3.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService4.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService5.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService6.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService7.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService8.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\InsuranceOnlineWS\InsuranceService9.xsd">
-      <SubType>Designer</SubType>
-    </None>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -430,9 +139,6 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadataStorage Include="Service References\InsuranceOnlineWS\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
