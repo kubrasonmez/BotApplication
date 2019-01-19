@@ -1,0 +1,42 @@
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Bot Application.dll.config
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Bot Application.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Bot Application.pdb
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Autofac.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Chronic.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.Bot.Builder.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.Bot.Connector.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Newtonsoft.Json.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\System.Net.Http.Formatting.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\System.Web.Http.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\System.Web.Http.WebHost.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Autofac.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.Bot.Builder.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.Bot.Connector.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\Newtonsoft.Json.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\System.Net.Http.Formatting.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\System.Web.Http.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\System.Web.Http.WebHost.xml
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\obj\Debug\Bot Application.dll
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\obj\Debug\Bot Application.pdb
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\obj\Debug\BotApplication.csprojAssemblyReference.cache
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\obj\Debug\BotApplication.csproj.CoreCompileInputs.cache
+C:\Users\KubraS\Documents\Visual Studio 2015\Projects\Bot Application\obj\Debug\BotApplication.csproj.CopyComplete
